@@ -1,5 +1,5 @@
-socket-programming
-Encrypted Client-Server Application (C#) This is a secure client-server communication project built with C#. It uses TCP sockets and custom encryption to exchange messages between the server and the client.
+<h2> Socket-Programming </h2>
+<br> Encrypted Client-Server Application (C#) This is a secure client-server communication project built with C#. It uses TCP sockets and custom encryption to exchange messages between the server and the client.
 
 Features TCP-based communication using .NET Sockets
 
