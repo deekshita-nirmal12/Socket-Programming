@@ -31,7 +31,8 @@ Both client and server support graceful disconnection with exit command.
 
 How to Run Clone the repository:
 
-git clone https://github.com/deekshita-nirmal12/socket-programming cd socket-programming Open the solution/project in Visual Studio 2022.
+git clone [https://github.com/deekshita-nirmal12/socket-programming](https://github.com/deekshita-nirmal12/socket-programming)
+<br> cd socket-programming Open the solution/project in Visual Studio 2022.
 
 Build the solution.
 
